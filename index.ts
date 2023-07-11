@@ -30,3 +30,18 @@ export const ContextProviderCollection = generateComponent(registeredProvider)
  * </ToastProvider>
  *
  */
+
+
+/**
+ * HOW TO USE:
+ * 
+ * // import like this
+ * import { ContextProviderCollection } from '../contexts'
+ * 
+ * 
+ * // and wrapped the respective component this:
+ * <ContextProviderCollection>
+ *  ....
+ * </ContextProviderCollection>
+ * 
+ */
